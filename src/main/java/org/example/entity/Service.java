@@ -3,7 +3,7 @@ package org.example.entity;
 import java.math.BigDecimal;
 import java.util.Objects;
 
-public class Service {
+public class    Service {
     private Integer id;
     private String name;
     private Integer duration;
